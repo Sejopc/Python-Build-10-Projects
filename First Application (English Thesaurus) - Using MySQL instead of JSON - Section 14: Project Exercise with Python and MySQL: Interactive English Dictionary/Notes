@@ -1,0 +1,7 @@
+For Using MySQL we will need a MySQL connector, so install it by using:
+
+$ pip3 install mysql-connector-python
+
+Once we have the connector parameters configured (user, password, host, database) we run the program. If no errors, returned, 
+means connection went successfull.
+
