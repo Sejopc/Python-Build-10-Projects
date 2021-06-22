@@ -1,0 +1,8 @@
+<!-- Since this is a child template, we dont need the <DOCTYPE> nor <html> nor <body> tags, only the <div>s-->
+{%extends "layout.html"%} <!-- Calls and executes "layout.html" file. It also means this file (home2.html) will be inherited/used by layout.html file as a template -->
+{%block content%}
+<div class="about">
+    <h1>About page</h1>
+    <p>This is a "about" website</p>
+</div>
+{%endblock%}

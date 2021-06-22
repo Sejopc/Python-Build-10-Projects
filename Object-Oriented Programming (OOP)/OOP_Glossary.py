@@ -1,0 +1,1 @@
+# The glossary types are on the "account.py" script, with comments next to each data type, such as classes, instance variable, global variables, etc.
